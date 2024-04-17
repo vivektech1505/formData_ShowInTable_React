@@ -133,13 +133,11 @@
     .formData form input[type='text'],
     .formData form input[type='email'],
     .formData form input[type='number'] {
-        width: 80%;
+        width: 90%;
     }
     .formData form select{
       width: 100%;
     }
-    
-
     .formData form button {
         width: 100%;
     }
