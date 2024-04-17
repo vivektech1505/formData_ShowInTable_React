@@ -251,7 +251,7 @@ function FormData() {
       {/* Table to display form data */}
       <div className='tableContainer'>
         <h2>Form Data</h2>
-        <table border='1' cellSpacing='30%'>
+        <table border='1'>
           <thead>
             <tr>
               <th>Name</th>

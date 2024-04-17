@@ -10,8 +10,9 @@
   border-radius: 5px;
 }
 .apply_box{
-  max-width: 700px;
-  padding: 10px;
+  /* max-width: 700px; */
+  width: 100%;
+  padding: 10px 10px;
   background-color: #ccc;
   border-radius: 10px;
   box-shadow: 4px 3px 5px rgba(1,1,1,0.1);
@@ -128,15 +129,16 @@
         max-width: 90%;
     }
 
-    .formData form select,
+    
     .formData form input[type='text'],
     .formData form input[type='email'],
     .formData form input[type='number'] {
-        width: 100%;
+        width: 80%;
     }
-    .formData form select {
+    .formData form select{
       width: 100%;
     }
+    
 
     .formData form button {
         width: 100%;
